@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Bebas+Neue&family=Didact+Gothic&family=Encode+Sans&family=Lilita+One&family=Noto+Sans+Adlam+Unjoined:wght@500&display=swap');
+
+/* font-family: 'Arvo', serif;
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Didact Gothic', sans-serif;
+font-family: 'Encode Sans', sans-serif;
+font-family: 'Lilita One', sans-serif;
+font-family: 'Noto Sans Adlam Unjoined', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Bebas+Neue&family=Didact+Gothic&family=Encode+Sans&family=Lilita+One&family=Noto+Sans+Adlam+Unjoined:wght@500&display=swap');
+
+
+/* *{
+    border: 2px solid blue;
+} */
+
+
+
+body {
+padding: 0px;
+margin: 0;
+background-image: url(PersonalImages/backgroundgrad.jpeg);
+background-size: cover;
+
+}
+
+#pleez {
+    height: 40px;
+    width: 51px;
+}
+
+#title {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 60px; 
+}
+
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    min-height: 50px;
+    
+}
+
+.dropdown-menu{
+    background-color: transparent;
+}
+
+.nav-item{
+    text-align: center;
+    font-size: 25px;
+    margin-right: 150px;
+    margin-left: 150px;
+    
+}
+
+.dropdown-menu {
+    border: red;
+}
+
+
+
+h1 {
+font-family: 'Arvo', serif;
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Didact Gothic', sans-serif;
+font-family: 'Encode Sans', sans-serif;
+font-family: 'Lilita One', sans-serif;
+font-family: 'Noto Sans Adlam Unjoined', sans-serif;
+margin-bottom: 60px;
+font-weight: 1000;
+}
+
